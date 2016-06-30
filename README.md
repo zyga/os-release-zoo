@@ -7,6 +7,8 @@ request.
 `/etc/os-release` contains operating system identification and was originally 
 [introduced](http://0pointer.de/blog/projects/os-release) with systemd.
 For more information please refer to the os-release
-[man page](https://www.freedesktop.org/software/systemd/man/os-release.html).
+[man page](http://0pointer.de/public/systemd-man/os-release.html).
 
-
+Not all distributions and/or versions include an os-release file. Distributions
+known _not_ to support it are included in this collection as files with a
+`not-supported` file extension, e.g. `centos/centos-6.not-supported`.
