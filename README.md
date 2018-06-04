@@ -1,3 +1,9 @@
+# The project has moved
+
+I've decided to move the project to https://gitlab.com/zygoon/os-release-zoo
+
+Please consider contributing there. Thank you!
+
 # Welcome to the /etc/os-release zoo!
 
 This project collects `/etc/os-release` files from various distributions.
